@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandeepa Muthukumari</h1>
-<h3 align="center">I am an enthusiastic undergraduate student in the Department of Electrical and Information Engineering at the University of Ruhuna, Sri Lanka. Driven by a deep passion for innovation, I focus on exploring cutting-edge technologies, particularly in web development and artificial intelligence. Alongside my studies, I am highly interested in network engineering. My aim is to bridge the gap between theory and practice, leveraging my skills to drive advancements in AI and deliver meaningful web solutions.</h3>
+<h3 align="justify">I am an enthusiastic undergraduate student in the Department of Electrical and Information Engineering at the University of Ruhuna, Sri Lanka. Driven by a deep passion for innovation, I focus on exploring cutting-edge technologies, particularly in web development and artificial intelligence. Alongside my studies, I am highly interested in network engineering. My aim is to bridge the gap between theory and practice, leveraging my skills to drive advancements in AI and deliver meaningful web solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepamuthukumari&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepamuthukumari" /> </p>
 
